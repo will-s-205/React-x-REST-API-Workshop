@@ -2,6 +2,7 @@
 
 ---
 https://www.youtube.com/watch?v=JaWjQkeninU
+https://github.com/will-s-205/React-x-REST-API-Workshop/blob/main/docs/Solution_server.js
 ![banner.png](./docs/img/banner.png)
 
 Let's create a front-end React Component that exchanges the contents of a 3rd party Web Database service using Express as a proxy.
