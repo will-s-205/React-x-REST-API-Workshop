@@ -1,7 +1,7 @@
 # JavaScript Workshop - Build a React App Using Web Database ⚙️
 
 ---
-
+https://www.youtube.com/watch?v=JaWjQkeninU
 ![banner.png](./docs/img/banner.png)
 
 Let's create a front-end React Component that exchanges the contents of a 3rd party Web Database service using Express as a proxy.
